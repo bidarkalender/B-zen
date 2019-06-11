@@ -1,0 +1,16 @@
+“B-zen” project aims to create an improvisation and composition tool for vocals as a 
+creative tool via gesture controlled system. 
+
+Using the voice of the performer, this tool creates a wide variety of textures which normally 
+cannot be produced by the unprocessed human voice. 
+
+The environment consists of a Leap Motion (LM) controller and a custom-made software, 
+developed in the SuperCollider (SC) programming language.
+
+There are stages such as, developing the code which manipulates the vocal signal 
+and mapping the parameters to the LM in SC. After these parameters are mapped to the LM 
+by using the GECO platform through MIDI, the performer may control her/his voice 
+and experiment the sonic outcomes with gestures using the LM controller. 
+
+The main purpose of this project is to create a custom made and gesture control system 
+for live performance used by vocalists within the genre of live electronics.
